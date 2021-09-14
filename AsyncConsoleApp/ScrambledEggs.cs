@@ -27,7 +27,7 @@ namespace AsyncConsoleApp
             Console.WriteLine("Pan is hot and ready.");
         }
 
-        //HeatFryingPanAsync()
+        //HeatFryingPanAsync(){}
         
 
         public void CrackEggsInBowl()
