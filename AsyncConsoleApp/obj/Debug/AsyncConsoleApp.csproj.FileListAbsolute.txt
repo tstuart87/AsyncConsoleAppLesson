@@ -1,0 +1,7 @@
+C:\Users\stuar\OneDrive\Desktop\EFA\Lecture Projects\AsyncConsoleApp\AsyncConsoleApp\obj\Debug\AsyncConsoleApp.csprojAssemblyReference.cache
+C:\Users\stuar\OneDrive\Desktop\EFA\Lecture Projects\AsyncConsoleApp\AsyncConsoleApp\obj\Debug\AsyncConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\stuar\OneDrive\Desktop\EFA\Lecture Projects\AsyncConsoleApp\AsyncConsoleApp\bin\Debug\AsyncConsoleApp.exe.config
+C:\Users\stuar\OneDrive\Desktop\EFA\Lecture Projects\AsyncConsoleApp\AsyncConsoleApp\bin\Debug\AsyncConsoleApp.exe
+C:\Users\stuar\OneDrive\Desktop\EFA\Lecture Projects\AsyncConsoleApp\AsyncConsoleApp\bin\Debug\AsyncConsoleApp.pdb
+C:\Users\stuar\OneDrive\Desktop\EFA\Lecture Projects\AsyncConsoleApp\AsyncConsoleApp\obj\Debug\AsyncConsoleApp.exe
+C:\Users\stuar\OneDrive\Desktop\EFA\Lecture Projects\AsyncConsoleApp\AsyncConsoleApp\obj\Debug\AsyncConsoleApp.pdb
