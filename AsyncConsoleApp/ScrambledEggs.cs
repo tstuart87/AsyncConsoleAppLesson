@@ -18,15 +18,7 @@ namespace AsyncConsoleApp
             ScrambleScrambleScramble();
         }
 
-        public async Task MakeScrambledEggsAsync()
-        {
-            var task = HeatFryingPanAsync();
-            CrackEggsInBowl();
-            WhiskEggs();
-            Console.WriteLine(await task);
-            PourEggsIntoHeatedPan();
-            ScrambleScrambleScramble();
-        }
+        //MakeScrambledEggsAsync(){}
 
         public void HeatFryingPan()
         {
@@ -35,12 +27,8 @@ namespace AsyncConsoleApp
             Console.WriteLine("Pan is hot and ready.");
         }
 
-        public async Task<string> HeatFryingPanAsync()
-        {
-            Console.WriteLine("Turning the stove on now....");
-            await Task.Delay(10000);
-            return "Pan is hot and ready.";
-        }
+        //HeatFryingPanAsync()
+        
 
         public void CrackEggsInBowl()
         {
