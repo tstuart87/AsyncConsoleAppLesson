@@ -32,9 +32,9 @@ namespace AsyncConsoleApp
             
             switch (reply)
             {
-                case "1":
-                    _eggs.MakeScrambledEggsAsync();
-                    break;
+                //case "1":
+                    //_eggs.MakeScrambledEggsAsync();
+                    //break;
                 case "2":
                     _eggs.MakeScrambledEggs();
                     break;
